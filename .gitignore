@@ -1,0 +1,22 @@
+# 编译输出
+target/
+*.class
+
+# IDEA 特定文件
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 运行日志
+logs/
+*.log
+
+# 前端依赖 (忽略所有层级的 node_modules)
+node_modules/
+.npm/
+
+# 忽略压缩包
+*.zip
+*.rar
+*.7z
