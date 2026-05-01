@@ -31,8 +31,8 @@
 * **第三方接入:** 腾讯云 OCR API、支付宝开放平台 (沙箱环境)
 
 ### 前端 (Frontend)
-* **基础框架:** (如果你用的是 Vue，就写 Vue 3 + Vite；如果是 React，就写 React)
-* **UI 组件库:** (如 Element Plus / Ant Design)
+* **基础框架:** vue3
+* **UI 组件库:** ( Element Plus / Ant Design)
 * **网络请求:** Axios
 ![Uploading image.png…]()
 
